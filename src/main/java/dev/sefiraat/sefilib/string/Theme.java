@@ -380,7 +380,7 @@ public class Theme {
             }
         }
         finalLore.add(applyThemeToString(Theme.CLICK_INFO, themeType.getLoreLine()));
-        return new CustomItemStack(
+        return CustomItemStack.create(
             material,
             Theme.applyThemeToString(themeType, name),
             finalLore.toArray(new String[finalLore.size() - 1])

@@ -34,7 +34,7 @@ public final class ItemStackGenerators {
         PotionMeta potionMeta = (PotionMeta) itemStack.getItemMeta();
         potionMeta.setBasePotionData(new PotionData(PotionType.WATER));
         potionMeta.setColor(color);
-        potionMeta.addItemFlags(ItemFlag.HIDE_POTION_EFFECTS);
+        potionMeta.addItemFlags(ItemFlag.HIDE_ADDITIONAL_TOOLTIP);
         itemStack.setItemMeta(potionMeta);
         return itemStack;
     }

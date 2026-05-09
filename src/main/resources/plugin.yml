@@ -1,0 +1,6 @@
+name: SefiLib
+version: ${project.version}
+main: dev.sefiraat.sefilib.SefiLibPlugin
+author: Sefiraat, EnigmaticMP
+description: Shared library for Slimefun addons — EnigmaticMP fork
+api-version: '1.21'
