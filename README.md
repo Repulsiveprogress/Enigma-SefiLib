@@ -2,7 +2,9 @@
 <img width="250" src="https://user-images.githubusercontent.com/20646323/180951144-6d5ef791-8ec4-46fa-b1bf-9e710274f9aa.png">
 </p>
 
-# SefiLib
+# Enigma-SefiLib
+> **EnigmaticMP Fork** - ported to Minecraft 26.1.2.
+> **Work on Enigma Slimefun4 New**: <https://github.com/Repulsiveprogress/Enigma-Slimefun4-new>
 
 [![javadoc](https://javadoc.io/badge2/dev.sefiraat/SefiLib/javadoc.svg?style=for-the-badge\&color=yellow)](https://javadoc.io/doc/dev.sefiraat/SefiLib)
 [![Maven Central](https://img.shields.io/maven-central/v/dev.sefiraat/SefiLib?color=aa\&style=for-the-badge)](https://search.maven.org/search?q=SefiLib)
