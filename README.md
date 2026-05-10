@@ -2,7 +2,7 @@
 <img width="250" src="https://user-images.githubusercontent.com/20646323/180951144-6d5ef791-8ec4-46fa-b1bf-9e710274f9aa.png">
 </p>
 
-# Enigma-SefiLib
+# Enigma SefiLib
 > **EnigmaticMP Fork** - ported to Minecraft 26.1.2.
 > **Work on Enigma Slimefun4 New**: <https://github.com/Repulsiveprogress/Enigma-Slimefun4-new>
 
